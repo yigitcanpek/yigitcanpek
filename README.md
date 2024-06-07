@@ -7,7 +7,7 @@ Backend Developer
 * 🌍  I'm based in Turkey Istanbul
 * 🖥️  See my portfolio at [www.yigitcanpek.com](http://yigitcanpek.com)
 * ✉️  You can contact me at [yigitcanpekguzel@gmail.com](mailto:yigitcanpekguzel@gmail.com)
-* 🚀  I'm currently working on [Ticimax](http://ticimax.com)
+* 🚀  I'm currently working on 
 * 🧠  I'm learning .Net
 * 🤝  I'm open to collaborating on Expert Systems
 * ⚡  Look my repos
